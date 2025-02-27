@@ -1,0 +1,13 @@
+.logIn-container{
+    max-width: 100%;
+    width: 60%;
+    margin: auto;
+    border: 2px solid black;
+    padding: 20px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+.logIn-form{
+    margin-top: 50px;
+}

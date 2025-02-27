@@ -1,0 +1,40 @@
+.signUp-container {
+  max-width: 100%;
+  width: 60%;
+  margin: auto;
+  border: 2px solid black;
+  padding: 20px;
+  border: 1px solid #BFBFBF;
+  background-color: white;
+  box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+.signUp-form {
+  margin-top: 50px;
+}
+
+.icon-div {
+  position: relative
+}
+
+#openEyeBtn {
+  position: absolute;
+  left: 90%;
+  z-index: 20;
+  border: none;
+  background-color: none;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+
+  h3 {
+    color: black;
+  }
+
+  label {
+    color: black;
+
+  }
+}
